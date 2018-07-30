@@ -6,3 +6,6 @@
 
 
 ++++++ I have added output photo... check it out
+
+
+DAO, MVC, Mediator Design Patterns
